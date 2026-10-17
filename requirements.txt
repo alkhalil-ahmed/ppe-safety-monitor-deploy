@@ -1,0 +1,6 @@
+streamlit>=1.36
+ultralytics>=8.3
+opencv-python-headless>=4.10
+Pillow>=10.0
+pandas>=2.2
+streamlit-webrtc>=0.47
